@@ -1,0 +1,27 @@
+.DogInfo {
+  text-align: center;
+  background-color: purple;
+}
+
+.DogInfo-title {
+  margin: 10px;
+  color: white;
+}
+
+.DogInfo-divs {
+  display: inline-block;
+  margin: 10px;
+  padding: 5px;
+}
+
+#DogInfo-description {
+  color: white;
+  position: relative;
+  top: -80px;
+}
+
+.DogInfo-img {
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 25rem;
+}

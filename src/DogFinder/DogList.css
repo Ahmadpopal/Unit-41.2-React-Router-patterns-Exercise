@@ -1,0 +1,11 @@
+.DogList {
+  margin: 10px;
+  text-align: center;
+}
+
+.DogList-title {
+  color: purple;
+  text-decoration: underline;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}

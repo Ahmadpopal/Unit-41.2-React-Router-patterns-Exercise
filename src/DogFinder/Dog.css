@@ -1,0 +1,28 @@
+.Dog {
+  margin: 10px;
+  background-color: purple;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 5px;
+  width: 20rem;
+  height: 22rem;
+  text-align: center;
+}
+
+.Dog :hover {
+  opacity: 0.6;
+}
+
+.Dog-title {
+  display: inline-block;
+  color: white;
+  width: 100px;
+  background-color: purple;
+}
+
+.Dog-img {
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 18rem;
+}

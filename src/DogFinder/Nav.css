@@ -1,0 +1,14 @@
+.Nav {
+  margin: 5px;
+  background-color: purple;
+  border: 1px solid black;
+  height: 40px;
+  text-align: center;
+}
+
+.Nav-Link {
+  position: relative;
+  top: 20px;
+  margin: 150px;
+  color: white;
+}
